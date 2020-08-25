@@ -26,7 +26,7 @@ namespace Singleton
             jaggedArray[0] = new string[3];
             jaggedArray[1] = new string[1];
             jaggedArray[2] = new string[2];
-            jaggedArray[0][0] = "Bachelor in Computer Science";
+            jaggedArray[0][0] = "Bachelor in Computer Science one more change";
             jaggedArray[0][1] = "Master in Computer Science";
             jaggedArray[0][2] = "Doctorate in Computer Science";
 
