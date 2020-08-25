@@ -12,7 +12,7 @@ namespace Singleton
         public Singleton()
         {
             counter++;
-            Console.WriteLine("Counter Value" + counter);
+            Console.WriteLine("Current Counter Value :" + counter);
         }
         public void PrintDetails(string message)
         {
